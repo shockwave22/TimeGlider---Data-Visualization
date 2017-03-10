@@ -1,0 +1,317 @@
+[
+{
+"id":"rit_history",
+"title":"A little history of RIT",
+"description":"<p>FOUNDED IN 1829, Rochester Institute of Technology is a privately endowed, coeducational university with nine colleges emphasizing career education and experiential learning.THE CAMPUS occupies 1,300 acres in suburban Rochester, the third-largest city in New York state. RIT also has international locations in Eastern Europe, Dubai, and China.</p>",
+"focus_date":"1829-01-01 12:00:00",
+"initial_zoom":"39",
+"image_lane_height":50,
+"events":[
+
+
+{
+"id":"jshist-Colonel",
+"title": "Colonel Nathaniel Rochester",
+"description":"Colonel Nathaniel Rochester and other Rochester community leaders founded the Athenaeum, an association “for the purpose of cultivating and promoting literature, science, and the arts. The Athenaeum was located in the Reynolds Arcade and housed a meeting room and a small reading room with a library, provided by Abelard Reynolds. The Rochester Athenaeum grew into a popular cultural center for Rochesterians. It offered public lectures and debates, and began establishing a substantial library",
+"startdate": "1829-06-01 12:00:00",
+"importance":"60",
+"high_threshold":50,
+"date_display":"ye",
+"icon":"circle_green.png"
+},
+
+{
+"id":"jshist-assem",
+"title": "Mechanics Literary Association",
+"description":"The Athenaeum merged with the Mechanics Literary Association, founded in 1836 by William A. Reynolds (son of Abelard Reynolds), to form the Rochester Athenaeum and Mechanics Association. It continued the tradition of public lectures, book reviews, and debates. The two groups merged their literary collections to create a singular library of more than 8,000 volumes covering a variety of subjects. Lectures were held at Corinthian Hall, which could hold 1,100, and distinguished speakers included Charles Dickens, Ralph Waldo Emerson, Oliver Wendell Holmes, and Frederick Douglass.",
+"startdate": "1847-06-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"flag_yellow.png"
+},
+
+{
+"id":"jshist-Mechanics ",
+"title": "Mechanics",
+"description":"Mechanics Institute is founded. Captain Henry Lomb, Max Lowenthal, Ezra Andrews, Frank Ritter, William Peck, and other Rochester businessmen and influential citizens established a school to provide needed technical training for skilled workers in industry. Lomb was the first president of the Board of Trustees and guided the direction of the institute until his death in 1908. Eugene Colby was appointed first teacher and principal of the Mechanics Institute. All funds for running the school were donated by the citizens of Rochester and instruction was free for the first year.<br>The first class offered at the newly formed Mechanics Institute was mechanical drawing, held in the evening on November 23, 1885. The community response is overwhelming. More than 400 students enrolled in the institute.",
+"startdate": "1885-01-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"triangle_orange.png"
+},
+
+{
+"id":"jshist-Arts",
+"title": "Fine Arts",
+"description":"Fine Arts classes are added to the institute's course offerings. Included are freehand drawing, architectural drawing, and design. Tuition is $8 a term for drawing, $12 for painting and modeling. Evening classes are free.",
+"startdate": "1886-01-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"triangle_orange.png"
+},
+
+{
+"id":"jshist-cultural",
+"title": "Cultural Education and practical technical training",
+"description":"Rochester Athenaeum and Mechanics Institute merge, bringing under one roof cultural education and practical technical training. Enrollment reaches 1,000 students.",
+"startdate": "1891-01-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"circle_green.png"
+},
+
+{
+"id":"jshist-Cooking",
+"title": "Cooking",
+"description":"Cooking classes begin in March 1893. The course consists of 26 lessons in practical cookery.",
+"startdate": "1893-01-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"triangle_orange.png"
+},
+
+{
+"id":"jshist-Manual",
+"title": "Manual Training Building",
+"description":"Manual Training Building is the first official building erected by the institute. It later becomes known as the Eastman Annex. The building contains machine shops, classrooms, and a lecture hall.<br>The manual training department is created, with classes in joinery and bench, and later, pattern making and forging.",
+"startdate": "1894-01-01 12:00:00",
+"importance":"60",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"square_blue.png"
+},
+
+{
+"id":"jshist-Eastman",
+"title": "The Eastman Building",
+"description":"The Eastman Building opens on Plymouth Avenue and the Erie Canal Aqueduct. George Eastman, founder of Eastman Kodak Co., donates the funds for this building and is an active benefactor of the institute until his death in 1932.",
+"startdate": "1901-01-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"square_blue.png"
+},
+
+{
+"id":"jshist-academic",
+"title": "The Academic Departments",
+"description":"The Mechanics Institute establishes five academic departments:<br><ul><li>Industrial Arts – Eugene Colby, Superintendent</li><li>Mechanic Arts and Sciences – language, mathematics, science, Roland Woodward, Superintendent</li><li>Manual Training – three members of board would supervise: James E. Gleason, Frank A. Brownell, Henry Lomb</li><li>Domestic Science and Art – Mary Bliss, Superintendent</li><li>Department of Fine Arts – direction of Bevier Memorial Committee: Adelbert Cronise, Dr. E.V. Stoddard, Harold C. Kimball, Lewis P. Ross, Charles H. Wiltsie</li></ul>",
+"startdate": "1903-01-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"triangle_orange.png"
+},
+
+{
+"id":"jshist-publication",
+"title": "The Institute Breeze",
+"description":"First student publication The Institute Breeze published. Cover design and drawings by students in the Fine Arts Department.",
+"startdate": "1909-01-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"circle_green.png"
+},
+
+{
+"id":"jshist-president",
+"title": "First RIT president",
+"description":"First president, Carleton B. Gibson, appointed. He served until 1916.",
+"startdate": "1910-01-01 12:00:00",
+"importance":"70",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"triangle_yellow.png"
+},
+
+{
+"id":"jshist-cooperative",
+"title": "The cooperative education program",
+"description":"The cooperative education program is started by President Gibson. Students find positions in industry and gain valuable, practical work experience before they graduate. At the time students worked in stores, factories, restaurants, and hospital kitchens<br> Alumni association formed. Group numbers 200 graduates of the institute.<br>Publication of Ramikin, the student yearbook, began.",
+"startdate": "1912-01-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"circle_green.png"
+},
+
+{
+"id":"jshist-appointed",
+"title": "James F. Barker",
+"description":"James F. Barker appointed president. He served until 1919.",
+"startdate": "1916-01-01 12:00:00",
+"importance":"55",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"triangle_yellow.png"
+},
+
+{
+"id":"jshist-appointed",
+"title": "Royal B. Farnum",
+"description":"Royal B. Farnum appointed president. He served until 1921.",
+"startdate": "1919-01-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"triangle_yellow.png"
+},
+
+{
+"id":"jshist-industrial",
+"title": "Industrial chemistry started",
+"description":"A course in industrial chemistry started.",
+"startdate": "1926-01-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"triangle_orange.png"
+},
+
+{
+"id":"jshist-Graphic",
+"title": "The Graphic Arts Research Center",
+"description":"The Graphic Arts Research Center established to “apply scientific and engineering principles to the printing and publishing industry.” RIT is a center of research on all aspects of the graphic arts. The School for American Craftsmen, now called School for American Crafts, founded by Mrs. Vanderbilt Webb, moved to RIT.<br> Enrollment reaches 4,376 students. <br> RIT becomes the first technical school to offer an associate degree in applied science in New York state.",
+"startdate": "1950-01-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"circle_green.png"
+},
+
+{
+"id":"jshist-masters",
+"title": "The first master’s degrees ",
+"description":"The first master’s degrees are awarded (all master of fine arts degrees).<br> Enrollment reaches 8,546 students.<br>Edwina Hogadone is appointed the first dean of the College of Business. Starting at RIT as a teacher of salesmanship, personnel, and merchandising in 1931, she is the first female dean at RIT and first woman in the nation named to head a college of business.<br>RIT is organized into six colleges: the College of Applied Science, the College of Business, the College of Fine and Applied Arts, the College of Graphic Arts and Photography, the College of General Studies (renamed the College of Liberal Arts in 1968) and Evening Studies.",
+"startdate": "1960-01-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"circle_green.png"
+},
+
+{
+"id":"jshist-NTID",
+"title": "National Technical Institute for the Deaf",
+"description":"RIT is chosen as the home campus for the federally sponsored National Technical Institute for the Deaf, which had been established in 1963 by Public Law 89-36 and signed by President Lyndon B. Johnson. In a national report the institute’s long history of technical education, cooperative education, and its emphasis on career preparation were cited as the reasons for the choice.",
+"startdate": "1966-01-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"circle_green.png"
+},
+
+{
+"id":"jshist-online",
+"title": "Online degree programs",
+"description":"RIT offers full degree programs online.<br>Construction of the Hale-Andrews Student Life Center is completed.<br>Commission on Cultural Diversity (now called the Commission for Promoting Pluralism) is established.The goals of the commission include articulating an institutional commitment to a pluralistic campus environment and promoting diversity as an institutional value.",
+"startdate": "1991-01-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"circle_green.png"
+},
+
+{
+"id":"jshist-Albert",
+"title": "Albert Simone",
+"description":"RIT’s eighth president, Albert Simone, is appointed.<br>The bachelor of science degree program in information technology is established. The training emphasizes understanding technology from the point of view of the user.",
+"startdate": "1992-01-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"image":{"src":"https://www.rit.edu/overview/images/simone.jpg","display_class":"inline"},
+"date_display":"ye",
+"high_threshold":50,
+"icon":"triangle_yellow.png"
+},
+
+{
+"id":"jshist-Golisano",
+"title": "Golisano College of Computing and Information Sciences",
+"description":"The B. Thomas Golisano College of Computing and Information Sciences is formed. The new college includes programs in computer science, information technology, and software engineering.<br>The Joseph F. and Helen C. Dyer Arts Center opens. The gallery hosts traveling exhibits and features NTID’s permanent collection of works by deaf, hard-of-hearing, and hearing artists.<br>A new master of science degree program in communication and media technology, an interdisciplinary program in the social sciences, humanities, and applied technologies is established. The program builds on RIT strengths in liberal arts, digital media and publishing, information technology, and e-business.",
+"startdate": "2001-01-01 12:00:00",
+"importance":"70",
+"link":"https://www.rit.edu/overview/history-rit",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"circle_green.png"
+},
+
+{
+"id":"jshist-socialcomp",
+"title": "Social computing",
+"description":"The nation’s first lab for social computing is established as part of the B. Thomas Golisano College of Computing and Information Sciences’ new research initiative, the Center for Advancing the Study of Cyberinfrastructure.<br>McAfee Inc. donates more than 1 million dollars in technology to the B. Thomas Golisano College of Computing and Information Sciences as the college launches a master’s degree program in computer security and information assurance.",
+"startdate": "2005-01-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"image":"https://www.rit.edu/overview/images/2005a.jpg",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"circle_green.png"
+},
+
+{
+"id":"jshist-consortium",
+"title": "Multimillion dollar federal investment",
+"description":"A New York-based consortium led by SUNY Polytechnic, RIT, and the University of Rochester is awarded a multimillion-dollar federal investment to create a national photonics center. The award was announced by Vice President Joe Biden and New York Gov. Andrew Cuomo.<br>RIT unveils a state-of-the-art Battery Prototyping Center. The new center will work with companies and universities to develop the next generation of batteries.",
+"startdate": "2015-01-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"image":"https://www.rit.edu/overview/images/2015a.jpg",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"circle_green.png"
+},
+
+{
+"id":"jshist-waves",
+"title": "Gravitational waves discovery",
+"description":"A monumental discovery will change the way scientists view the universe and RIT researchers played a key role in the revelation. Six RIT researchers are among the authors of a paper announcing what may be the most important scientific discovery in a century—findings that confirm the existence of gravitational waves predicted in Albert Einstein’s general theory of relativity.",
+"startdate": "2016-01-01 12:00:00",
+"importance":"48",
+"link":"https://www.rit.edu/overview/history-rit",
+"image":"https://www.rit.edu/overview/images/2016a.jpg",
+"date_display":"ye",
+"high_threshold":50,
+"icon":"circle_green.png"
+}
+
+
+
+],
+"tags":{"mardigras":2,"chris":2,"arizona":2,"netscape":2,"flop":1},
+"legend": [
+   {"title":"Departments", "icon":"triangle_orange.png"},
+   {"title":"Presidents", "icon":"triangle_yellow.png"},
+   {"title":"Misc", "icon":"triangle_green.png"},
+   {"title":"Milestones", "icon":"circle_green.png"},
+   {"title":"Buildings", "icon":"square_blue.png"}
+  
+]
+         
+}
+]
